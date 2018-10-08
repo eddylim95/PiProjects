@@ -1,0 +1,10 @@
+{
+    "image_recognition": {
+        "model": "hog",
+        "dataPath": "dataset"
+    },
+    "encoding": {
+        "encodingPickleLocation": "encodings.pickle",
+        "data": ["encodings", "names"]
+    }
+}

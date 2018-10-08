@@ -8,6 +8,12 @@ requests = "*"
 gtts = "*"
 pylint = "*"
 pygame = "*"
+dlib = "*"
+face-recognition = "*"
+opencv-python = "*"
+imutils = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
